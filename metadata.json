@@ -1,0 +1,6 @@
+{
+  "name": "ASPIRE WORK — Luxury Motivation & Discipline",
+  "description": "Dream Bigger. Work Harder. Become Unstoppable. The premium motivational platform for discipline, success, ambition, and financial freedom.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
